@@ -30,7 +30,6 @@ from input import *
 #3 -Realizar una función recursiva que permita realizar la suma de los dígitos de un número:
 
 # n = get_int("", "E", 1, 1000, 2)
-
 # def sumar_digitos(numero: int) -> int:
     
 #     if numero < 10:
