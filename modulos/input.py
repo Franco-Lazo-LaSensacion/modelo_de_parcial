@@ -1,4 +1,4 @@
-import validate
+import Cursada.modulos.validate as validate
 
 def get_int (mensaje:str, mensaje_error:str, minimo:int, maximo:int, reintentos:int) -> int|None:
     '''

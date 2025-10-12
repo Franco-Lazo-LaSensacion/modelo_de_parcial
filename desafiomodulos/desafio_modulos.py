@@ -1,4 +1,4 @@
-from input import *
+from Cursada.modulos.input import *
 
 
 get_int(f"Hola, vamos a solicitar un entero para validar.", "El entero que ingresaste esta fuera de los límites.", 1, 5, 3)

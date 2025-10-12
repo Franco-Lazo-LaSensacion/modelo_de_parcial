@@ -1,4 +1,4 @@
-from input import *
+from Cursada.modulos.input import *
 
 # 1 -Realizar una función recursiva que calcule la suma de los primeros números naturales:
 
