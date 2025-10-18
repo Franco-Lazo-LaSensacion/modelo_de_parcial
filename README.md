@@ -1,3 +1,3 @@
-# lazo_franco_funciones_input
+# modelo parcial
 
-NO todas las actividades estan terminadas.
+falta validar un poco mas
