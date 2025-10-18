@@ -22,7 +22,7 @@ def mostrar_positivos_o_negativos(lista: list) -> str:
 
     return mensaje
 
-def mostrar_indices_impares(lista: list) -> str:
+def mostrar_valores_en_indices_impares(lista: list) -> str:
 
     '''
     Busca los numeros posicionados en indices impares
